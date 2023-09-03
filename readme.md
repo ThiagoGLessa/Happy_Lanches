@@ -2,6 +2,8 @@ Um mini-projeto realizado para praticar responsividade com o uso de Flex-Box.
 
 O projeto HappyLanches tem como proposta apresentar cards com alguns alimentos. O site se ajusta a diferentes tamanhos de telas.
 
+OBS: Este projeto não tem nenhuma finalidade lucrativa! 
+
 Telas de computadores:
 <div><img src="assets/Tela-computador.png"></div>
 
